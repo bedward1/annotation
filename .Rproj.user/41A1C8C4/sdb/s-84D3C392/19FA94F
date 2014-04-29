@@ -1,0 +1,17 @@
+{
+    "contents" : "# identify the hightest expressing probes of a gene give the arraystudio data\n",
+    "created" : 1398792495934.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2298028250",
+    "id" : "19FA94F",
+    "lastKnownWriteTime" : 1398792535,
+    "path" : "~/R/Annotation/idbestprobe.R",
+    "project_path" : "idbestprobe.R",
+    "properties" : {
+        "tempName" : "Untitled1"
+    },
+    "source_on_save" : false,
+    "type" : "r_source"
+}
